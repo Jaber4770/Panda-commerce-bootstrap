@@ -1,6 +1,12 @@
 .panda-bg-color{
     background-color: #fceae8;
 }
+.top-margin{
+    margin-top: 140px;
+}
+.margin-top{
+    margin-top:100px;
+}
 .catagories img{
     width:100px;
 }
